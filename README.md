@@ -1,8 +1,8 @@
 ## Hi there, I'm Henrique 👋
 
 <div>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=hpe-palermo&show_icons=true&theme=github_dark&hide_border=true"/> 
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpe-palermo&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=hick-hpe&show_icons=true&theme=github_dark&hide_border=true"/> 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick-hpe&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
 
