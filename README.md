@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Henrique
 
 ## Sobre Mim
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** e entusiasta do desenvolvimento de software. Atualmente estudo e desenvolvo projetos com foco em **Python**, **JavaScript**, **Django**, **ReactJS**. Estou sempre buscando aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos.
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** e entusiasta do desenvolvimento de software. Atualmente estudo e desenvolvo projetos com foco em **Python**, **JavaScript**, **Django**, **ReactJS**. Estou sempre buscando aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. Futuramente, aprender IA e jogos.
 
 ## Linguagens e Tecnologias
 <div>
@@ -23,6 +23,6 @@ Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** e entu
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,k8s,native)]()
 
 
-### Redes Sociais
+### 📬 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hick_hpe/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-palermo/)
