@@ -26,8 +26,13 @@ Busco constantemente aprimorar minhas habilidades e transformar ideias em soluç
 ### Estudos para se aprofundar futuramente
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,k8s,native)]()
 
-<!-- ## 🚀 Projetos em Destaque
--  -->
+## 🚀 Projetos em Destaque
+- [API Cep](https://github.com/hick-hpe/api-viacep): consumo da API ViaCEP;
+- [Portifólio](https://portifolio-gamma-virid-49.vercel.app/):  website do meu portifólio;
+- [ProfessorHub](https://github.com/hrausch/professorhub/): website para auxiliar os professores a se organizarem para as aulas;
+- [DevQuiz](https://github.com/hick-hpe/projeto-Integrador-2025): website de quizzes relacionados ao curso de TADS, a fim de servir como uma plataforma complementar aos estudos;
+- [Tic-Tac-Toe](https://github.com/hick-hpe/tic-tac-toe):  jogo da velha com multiplayer online;
+- [Mini Travel Guide](https://github.com/hick-hpe/react-native/): app simples com React Native sobre guia de viagens;
 
 
 ### 📬 Redes Sociais
