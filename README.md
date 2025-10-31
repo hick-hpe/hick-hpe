@@ -33,6 +33,7 @@ Busco constantemente aprimorar minhas habilidades e transformar ideias em soluç
 - [DevQuiz](https://github.com/hick-hpe/projeto-Integrador-2025): website de quizzes relacionados ao curso de TADS, a fim de servir como uma plataforma complementar aos estudos;
 - [Tic-Tac-Toe](https://github.com/hick-hpe/tic-tac-toe):  jogo da velha com multiplayer online;
 - [Mini Travel Guide](https://github.com/hick-hpe/react-native/): app simples com React Native sobre guia de viagens;
+- [ColetaIF](coleta-if): website para conscientizar a comunidade sobre o lixo eletrônico
 
 
 ### 📬 Redes Sociais
