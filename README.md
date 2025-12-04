@@ -7,12 +7,13 @@ Atualmente foco meus estudos em Python, JavaScript, Django e ReactJS — criando
 Tenho interesse em Inteligência Artificial, desenvolvimento de jogos e projetos full stack.
 Busco constantemente aprimorar minhas habilidades e transformar ideias em soluções reais. 🚀
 
-## Linguagens e Tecnologias
+<!-- ## Linguagens e Tecnologias
 <div>
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=hick-hpe&show_icons=true&theme=github_dark&hide_border=true"/> 
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick-hpe&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
+-->
 
 ### Tecnologias com experiências
 
