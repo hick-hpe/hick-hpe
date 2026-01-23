@@ -34,16 +34,17 @@ Busco constantemente aprimorar minhas habilidades e transformar ideias em soluç
 - [DevQuiz](https://github.com/hick-hpe/projeto-Integrador-2025): website de quizzes relacionados ao curso de TADS, a fim de servir como uma plataforma complementar aos estudos;
 - [Tic-Tac-Toe](https://github.com/hick-hpe/tic-tac-toe):  jogo da velha com multiplayer online;
 - [Mini Travel Guide](https://github.com/hick-hpe/react-native/): app simples com React Native sobre guia de viagens;
-- [ColetaIF](https://github.com/hick-hpe/coleta-if): website para conscientizar a comunidade sobre o lixo eletrônico
-
+- [ColetaIF](https://github.com/hick-hpe/coleta-if): website para conscientizar a comunidade sobre o lixo eletrônico;
+- [RPG](https://github.com/hick-hpe/rpg-texto): um rpg de texto, onde o jogador faz escolhas que alteram o destino da história
 
 ### 📬 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hick_hpe/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-palermo/)
 
+
 <!-- Badge de visitantes -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hick-hpe)
 
 <!-- Animação de snake nos commits -->
-![snake gif](github-contribution-grid-snake.gif)
+<!-- ![snake gif](github-contribution-grid-snake.gif) -->
 
