@@ -25,7 +25,7 @@ Python | Django | Node.js | Express
 HTML | CSS | JavaScript | React
 
 ### Banco de Dados
-MySQL | MongoDB
+MySQL | MongoDB | Firebase
 
 ### Ferramentas
 Git | Docker | Bash
