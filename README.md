@@ -1,45 +1,85 @@
-## 👋 Olá! Eu sou o Henrique
 
-## Sobre Mim
-Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas e entusiasta do desenvolvimento de software.
-Atualmente foco meus estudos em Python, JavaScript, Django e ReactJS — criando projetos práticos para consolidar o aprendizado.
+# 👋 Olá! Eu sou o Henrique
 
-Tenho interesse em Inteligência Artificial, desenvolvimento de jogos e projetos full stack.
-Busco constantemente aprimorar minhas habilidades e transformar ideias em soluções reais. 🚀
 
-<!-- ## Linguagens e Tecnologias
-<div>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=hick-hpe&show_icons=true&theme=github_dark&hide_border=true"/> 
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hick-hpe&layout=compact&theme=github_dark&hide_border=true"/>
-  <br>
-</div>
--->
+🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação com foco em aplicações web full stack
 
-### Tecnologias com experiências
+Tenho experiência prática no desenvolvimento de **APIs REST**, sistemas web com autenticação, integração com APIs externas e persistência de dados.  
+Atualmente concentro meus estudos em **Python, Django, JavaScript e React**, buscando construir aplicações bem estruturadas e escaláveis.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react)]()
+Tenho interesse especial em:
+- Arquitetura de Software
+- Inteligência Artificial aplicada
+- Desenvolvimento de jogos
+- Sistemas full stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,py)]()
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
+🚀 Meu objetivo é atuar como desenvolvedor backend ou full stack, contribuindo na construção de soluções reais e evoluindo constantemente como profissional.
 
-[![My Skills](https://skillicons.dev/icons?i=java,figma,docker,git,github,bash)]()
+## 🛠️ Skills
 
-### Estudos para se aprofundar futuramente
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,k8s,native)]()
+### Backend
+Python | Django | Node.js | Express
+
+### Frontend
+HTML | CSS | JavaScript | React
+
+### Banco de Dados
+MySQL | MongoDB
+
+### Ferramentas
+Git | Docker | Bash
+
 
 ## 🚀 Projetos em Destaque
-- [API Cep](https://github.com/hick-hpe/api-viacep): consumo da API ViaCEP;
-- [Portifólio](https://portifolio-gamma-virid-49.vercel.app/):  website do meu portifólio;
-- [ProfessorHub](https://github.com/hrausch/professorhub/): website para auxiliar os professores a se organizarem para as aulas;
-- [DevQuiz](https://github.com/hick-hpe/projeto-Integrador-2025): website de quizzes relacionados ao curso de TADS, a fim de servir como uma plataforma complementar aos estudos;
-- [Tic-Tac-Toe](https://github.com/hick-hpe/tic-tac-toe):  jogo da velha com multiplayer online;
-- [Mini Travel Guide](https://github.com/hick-hpe/react-native/): app simples com React Native sobre guia de viagens;
-- [ColetaIF](https://github.com/hick-hpe/coleta-if): website para conscientizar a comunidade sobre o lixo eletrônico;
-- [RPG](https://github.com/hick-hpe/rpg-texto): um rpg de texto, onde o jogador faz escolhas que alteram o destino da história
+
+### DevQuiz
+
+Plataforma web gamificada desenvolvida com Django para reforço acadêmico, com sistema de autenticação, pontuação e gerenciamento de questões. <br>
+[https://github.com/hick-hpe/projeto-Integrador-2025](https://github.com/hick-hpe/projeto-Integrador-2025)
+
+
+### ProfessorHub
+
+Sistema web voltado para organização de aulas e planejamento acadêmico, com foco em produtividade para professores. <br>
+[https://github.com/hrausch/professorhub/](https://github.com/hrausch/professorhub/)
+
+### API CEP
+
+API desenvolvida em Node.js consumindo a API ViaCEP, com tratamento de erros e padronização de respostas. <br>
+[https://github.com/hick-hpe/api-viacep](https://github.com/hick-hpe/api-viacep)
+
+### Tic-Tac-Toe Multiplayer
+
+Jogo da velha com multiplayer online, utilizando comunicação em tempo real. <br>
+[https://github.com/hick-hpe/tic-tac-toe](https://github.com/hick-hpe/tic-tac-toe)
+
+### ColetaIF
+
+Website com foco em conscientização sobre lixo eletrônico, incentivando descarte responsável. <br>
+[https://github.com/hick-hpe/coleta-if](https://github.com/hick-hpe/coleta-if)
+
+### RPG de Texto
+
+Jogo interativo baseado em escolhas, onde as decisões do jogador impactam o desenvolvimento da narrativa. <br>
+[https://github.com/hick-hpe/rpg-texto](https://github.com/hick-hpe/rpg-texto)
+
+### Sistema de Vendas Online
+
+Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e estoque, com autenticação de usuários e persistência de dados. <br>
+[https://github.com/hick-hpe/webapp-sistema-vendas](https://github.com/hick-hpe/webapp-sistema-vendas)
+
+
+### 📚 Atualmente Estudando
+- Arquitetura de Software
+- Boas práticas em APIs REST
+- Conteinerização com Docker
+- Estruturação de projetos escaláveis
+
 
 ### 📬 Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hick_hpe/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-palermo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hick_hpe/)
 
 
 <!-- Badge de visitantes -->
