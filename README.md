@@ -18,7 +18,7 @@ Tenho interesse especial em:
 ## 🛠️ Skills
 
 ### Backend
-![https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<!-- ![https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
+![https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -44,41 +44,26 @@ Tenho interesse especial em:
 
 ## 🚀 Projetos em Destaque
 
-<!-- ### DevQuiz
-
-Plataforma web gamificada desenvolvida com Django para reforço acadêmico, com sistema de autenticação, pontuação e gerenciamento de questões. <br>
-[https://github.com/hick-hpe/projeto-Integrador-2025](https://github.com/hick-hpe/projeto-Integrador-2025) -->
-
 
 ### ProfessorHub
 
 Sistema web voltado para organização de aulas e planejamento acadêmico, com foco em produtividade para professores. <br>
-[https://github.com/hrausch/professorhub/](https://github.com/hrausch/professorhub/)
+[Repositório no GitHub](https://github.com/hrausch/professorhub/) | [Ver aplicação online](https://professorhub.apps.cascavel.ifpr.edu.br/)
 
 ### API CEP
 
 API desenvolvida em Node.js consumindo a API ViaCEP, com tratamento de erros e padronização de respostas. <br>
-[https://github.com/hick-hpe/api-viacep](https://github.com/hick-hpe/api-viacep)
-
-<!-- ### Tic-Tac-Toe Multiplayer
-
-Jogo da velha com multiplayer online, utilizando comunicação em tempo real. <br>
-[https://github.com/hick-hpe/tic-tac-toe](https://github.com/hick-hpe/tic-tac-toe) -->
+[Repositório no GitHub](https://github.com/hick-hpe/api-viacep) | [Ver aplicação online](https://hick-hpe.github.io/api-viacep/)
 
 ### ColetaIF
 
 Website com foco em conscientização sobre lixo eletrônico, incentivando descarte responsável. <br>
-[https://github.com/hick-hpe/coleta-if](https://github.com/hick-hpe/coleta-if)
-
-<!-- ### RPG de Texto
-
-Jogo interativo baseado em escolhas, onde as decisões do jogador impactam o desenvolvimento da narrativa. <br>
-[https://github.com/hick-hpe/rpg-texto](https://github.com/hick-hpe/rpg-texto) -->
+[Repositório no GitHub](https://github.com/hick-hpe/coleta-if) | [Ver aplicação online](https://coleta-if.vercel.app/)
 
 ### Sistema de Vendas Online
 
 Aplicação web full stack desenvolvida para gerenciamento de vendas, produtos e estoque, com autenticação de usuários e persistência de dados. <br>
-[https://github.com/hick-hpe/webapp-sistema-vendas](https://github.com/hick-hpe/webapp-sistema-vendas)
+[Repositório no GitHub](https://github.com/hick-hpe/webapp-sistema-vendas) | [Ver aplicação online](https://palermo.pythonanywhere.com/)
 
 
 ### 📚 Atualmente Estudando
